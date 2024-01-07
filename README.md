@@ -4,11 +4,12 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ryan.h_22)
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Ryanhangralim.ryanhangralim)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Ryanhangralim.Ryanhangralim)
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+I am an undergraduate computer science student. I love programming, reading, playing games and watching anime/series/movies.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+As an undergraduate student, I enjoy learning and trying out new things I haven't tried before. Currently, I am still trying various things to find a path I could pour all my focused into. 
+
 
 <img align="right" alt="GIF" src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
   

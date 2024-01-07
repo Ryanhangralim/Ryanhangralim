@@ -8,7 +8,7 @@
 
 I am an undergraduate computer science student. I love programming, reading, playing games and watching anime/series/movies.
 
-As an undergraduate student, I enjoy learning and trying out new things I haven't tried before. Currently, I am still trying various things to find a path I could pour all my focused into. 
+As an undergraduate student, I enjoy learning and trying out new things I haven't tried before. Currently, I am still trying various things to find a path I could specialized in. 
 
 
 <img align="right" alt="GIF" src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/coding.gif?raw=true" width="408" height="318" />

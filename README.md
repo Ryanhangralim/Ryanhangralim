@@ -10,7 +10,7 @@ I am an undergraduate computer science student. I love programming, reading, pla
 
 As an undergraduate student, I enjoy learning and trying out new things I haven't tried before. Currently, I am still trying various things to find a path I could specialized in. 
 
-<img align="right" alt="GIF" src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/gojo.gif?raw=true" width="210" style="Border-radius:50%" pady=20/>
+<img align="right" alt="GIF" src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/gojo.gif?raw=true" width="190" style="Border-radius:50%" pady=20/>
 
 ### Talking about Personal Stuffs: 
 

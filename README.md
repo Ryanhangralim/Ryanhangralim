@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryanhangralim)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ryan.h_22)
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Glad to see you here! <img align="center" src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/anya.gif?raw=true" width="40"> 
 
@@ -28,6 +28,8 @@ As an undergraduate student, I enjoy learning and trying out new things I haven'
 ### 📈 My GitHub Stats:
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryanhangralim&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanhangralim&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryanhangralim&theme=dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanhangralim&theme=dark&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryanhangralim&theme=dark&hide_border=true"/> 
+
 </p>

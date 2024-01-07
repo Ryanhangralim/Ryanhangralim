@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ryan.h_22)
 
 
-### Glad to see you here! <img src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/anya.gif?raw=true" width="18"> 
+### Glad to see you here! <img align="center" src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/anya.gif?raw=true" width="40"> 
 
 I am an undergraduate computer science student. I love programming, reading, playing games and watching anime/series/movies.
 

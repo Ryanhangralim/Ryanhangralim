@@ -10,7 +10,7 @@ I am an undergraduate computer science student. I love programming, reading, pla
 
 As an undergraduate student, I enjoy learning and trying out new things I haven't tried before. Currently, I am still trying various things to find a path I could specialized in. 
 
-### Talking about Personal Stuffs: 
+## <picture><img align="center" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture><b> Talking about Personal Stuffs:</b> 
 
 - <img align="center" src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/glitch.gif?raw=true" width="30" />&nbsp;&nbsp; I’m currently working on nothing;
 
@@ -19,11 +19,12 @@ As an undergraduate student, I enjoy learning and trying out new things I haven'
 - <img align="center" src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/gojo.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: hangralim.2208561030@student.unud.ac.id;
 
 
-### 🛠&nbsp;Languange and Tools
+## <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Language and Tools</b>
+
 <img src="https://skillicons.dev/icons?i=vscode,figma,github,discord,git,c,cpp,python,java,sqlite,mysql&perline=14" />
 
 
-### 📈 My GitHub Stats:
+## <img align="center" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> My Github Stats </b>
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryanhangralim&theme=dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />

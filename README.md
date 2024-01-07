@@ -12,10 +12,12 @@ As an undergraduate student, I enjoy learning and trying out new things I haven'
 
 ### Talking about Personal Stuffs: 
 
-- <img src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on nothing;
-- <img src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Python;
-- <img src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
-- <img src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: hangralim.2208561030@student.unud.ac.id;
+- <img align="center" src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/glitch.gif?raw=true" width="30" />&nbsp;&nbsp; I’m currently working on nothing;
+
+- <img align="center" src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/learn.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Python;
+
+- <img align="center" src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/gojo.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: hangralim.2208561030@student.unud.ac.id;
+
 
 ### 🛠&nbsp;Languange and Tools
 <img src="https://skillicons.dev/icons?i=vscode,figma,github,discord,git,c,cpp,python,java,sqlite,mysql&perline=14" />

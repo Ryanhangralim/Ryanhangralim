@@ -12,18 +12,24 @@ As an undergraduate student, I enjoy learning and trying out new things I haven'
 
 
 <img align="right" alt="GIF" src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
-  
 
-**Talking about Personal Stuffs:**
+### Talking about Personal Stuffs: 
 
 - <img src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on nothing;
 - <img src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Python;
 - <img src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: hangralim.2208561030@student.unud.ac.id;
-
 </br>
 
-📈 **My GitHub Stats:**
+### 🛠&nbsp;Languange and Tools
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+### 📈 My GitHub Stats:
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryanhangralim&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />

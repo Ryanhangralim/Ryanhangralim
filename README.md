@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ryan.h_22)
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Ryanhangralim.Ryanhangralim)
+### Glad to see you here! <img src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/anya.gif?raw=true" width="18"> 
 
 I am an undergraduate computer science student. I love programming, reading, playing games and watching anime/series/movies.
 
@@ -17,7 +17,7 @@ As an undergraduate student, I enjoy learning and trying out new things I haven'
 **Talking about Personal Stuffs:**
 
 - <img src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on nothing;
-- <img src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Python;
+- <img src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Python;
 - <img src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: hangralim.2208561030@student.unud.ac.id;
 

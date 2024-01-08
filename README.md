@@ -2,13 +2,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryanhangralim)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ryan.h_22)
+![Visits Badge](https://badges.pufler.dev/visits/Ryanhangralim/Ryanhangralim)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img align="center" src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/anya.gif?raw=true" width="40"> **Glad to see you here!**  
 
 I am an undergraduate computer science student. I love programming, reading, playing games and watching anime/series/movies.
 
-As an undergraduate student, I enjoy learning and trying out new things I haven't tried before. Currently, I am still trying various things to find a path I could specialized in. 
+As an undergraduate student, I enjoy learning and trying out new things I haven't tried before. Currently, I am still trying various things to find a path I could specialize in. 
 
 ## <picture><img align="center" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture><b> Talking about Personal Stuffs:</b> 
 

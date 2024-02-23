@@ -17,7 +17,7 @@ As an undergraduate student, I enjoy learning and trying out new things I haven'
 
 - <img align="center" src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/learn.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Python;
 
-- <img align="center" src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/gojo.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: hangralim.2208561030@student.unud.ac.id;
+- <img align="center" src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/gojo.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: hangralim.2208561030@student.unud.ac.id
 
 
 ## <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Language and Tools</b>

@@ -15,7 +15,7 @@ As an undergraduate student, I enjoy learning and trying out new things I haven'
 
 - <img align="center" src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/glitch.gif?raw=true" width="30" />&nbsp;&nbsp; I’m currently working on nothing;
 
-- <img align="center" src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/learn.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Python;
+- <img align="center" src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/learn.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning JavaScript;
 
 - <img align="center" src="https://github.com/Ryanhangralim/Ryanhangralim/blob/main/assets/gojo.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: hangralim.2208561030@student.unud.ac.id
 
